@@ -18,7 +18,7 @@ A command-lline tool to assist developers with creating a README file for their 
 1. Clone the repository: git clone [git@github.com:OutsideofemiT/](https://github.com/OutsideofemiT/empTrack_10.git) Navigate to the project directory: cd empTrack_10. Install dependencies: npm install inquirer and $ npm install pg.
 
 ## Usage
-To use the README generator, run the following command in your terminal: node index.js. Follow the prompts to complete your README file.
+To use the Employee Tracker, run the following command in your terminal: node src/index.js. Follow the prompts to complete your README file.
 
 ## License
 This project is licensed under the MIT license.

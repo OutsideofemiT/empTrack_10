@@ -1,0 +1,17 @@
+{
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "Command-line application to manage a company's employee database",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "pg": "^8.7.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
+

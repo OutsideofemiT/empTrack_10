@@ -16,6 +16,9 @@ A command-lline tool to assist developers with creating a README file for their 
 
 ## Installation
 1. Clone the repository: git clone [git@github.com:OutsideofemiT/](https://github.com/OutsideofemiT/empTrack_10.git) Navigate to the project directory: cd empTrack_10. Install dependencies: npm install inquirer and $ npm install pg.
+2. 
+## Video of Deployed Employee Tracker
+https://1drv.ms/v/c/bdd397837a88eff5/Ed89oELn0FhKgPlLOkesAPcB8yFYXxFPbO7p27HyKYMQhA
 
 ## Usage
 To use the Employee Tracker, run the following command in your terminal: node src/index.js. Follow the prompts to complete your README file.

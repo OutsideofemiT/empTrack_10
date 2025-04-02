@@ -1,10 +1,6 @@
 
-# Read_Me_Generator
-
+# EMPLOYEE TRACKER
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
-
-## Description
-A command-lline tool to assist developers with creating a README file for their projects.
 
 ## Table of Contents
 1. [Installation](#installation)
